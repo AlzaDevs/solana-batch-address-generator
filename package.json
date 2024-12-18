@@ -1,0 +1,15 @@
+{
+  "name": "solana-address-generator-ts",
+  "version": "1.0.0",
+  "main": "tsc solgen.ts",
+  "keywords": [],
+  "author": "alza.mohh@gmail.com",
+  "license": "MIT",
+  "description": "Solana Batch Address Generator",
+  "dependencies": {
+    "@solana/web3.js": "^1.98.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2"
+  }
+}
